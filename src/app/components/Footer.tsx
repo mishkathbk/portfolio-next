@@ -12,6 +12,9 @@ const Footer = () => {
              <Link href="https://www.linkedin.com/in/mishkath-bk">
              <Image className=" mt-5 ml-4" src="/images/linkedin.png" width={30} height={30} alt=""/>
              </Link>
+             <Link href="https://www.github.com/mishkathbk">
+             <Image className=" mt-5 ml-4" src="/images/github.svg" width={30} height={30} alt=""/>
+             </Link>
         </div>
     </div>
   )
