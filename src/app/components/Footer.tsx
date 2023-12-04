@@ -9,7 +9,7 @@ const Footer = () => {
             <Link href="https://www.instagram.com/m.ishqu?igshid=MmIzYWVlNDQ5Yg%3D%3D">
              <Image className=" mt-5 ml-4" src="/images/instagram.png" width={30} height={30} alt=""/>
              </Link>
-             <Link href="www.linkedin.com/in/mishkath-bk">
+             <Link href="https://www.linkedin.com/in/mishkath-bk">
              <Image className=" mt-5 ml-4" src="/images/linkedin.png" width={30} height={30} alt=""/>
              </Link>
         </div>
