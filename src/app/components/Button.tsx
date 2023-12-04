@@ -10,7 +10,7 @@ const Button = () => {
 
   return (
     <div className='  flex items-center justify-center  mt-14' id="resume">
-       <button  className="text-center  text-white bg-blue-900 rounded-lg p-2 hover:text-blue-950 font-semibold hover:bg-white" onClick={butt} >Download Resume</button>
+       <button  className="text-center  text-white bg-blue-900 rounded-lg p-2 hover:text-blue-950 font-semibold hover:bg-white transition duration-700 " onClick={butt} >Download Resume</button>
           
 
         </div>
