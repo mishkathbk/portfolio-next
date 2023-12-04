@@ -27,7 +27,7 @@ const Intro = () => {
           font-extrabold font-sans mt-3 xs:text-2xl sm:text-3xl lg:text-5xl before:absolute before:inset-0 before:animate-typewriter before:bg-white after:absolute after:inset-0 after:w-[0.125em] after:animate-caret
             after:bg-black">Developer</span></h2>
           <div className=' mt-2 2xl:mt-5'>
-            <button className='py-1 text-[11px]  sm:text-base  sm:py-4 md:p-2 w-28 sm:w-[10rem] rounded-md md:rounded-2xl hover:bg-white hover:text-amber-950 text-white bg-amber-950 font-plexsans'><Link href="#proj"> VIEW PROJECTS </Link></button>
+            <button className='py-1 text-[11px]  sm:text-base   md:p-2 w-28 sm:w-[10rem] rounded-md md:rounded-2xl hover:bg-white hover:text-amber-950 text-white bg-amber-950 font-plexsans'><Link href="#proj"> VIEW PROJECTS </Link></button>
           </div>
         </div>
       </div>

@@ -15,7 +15,7 @@ const Services = () => {
                 <div className=" w-64 h-64 sm:w-72 sm:h-72 rounded-lg  shadow-lg shadow-blue-500/50 flex flex-col items-center">
                     <div className='block mt-4'>
                         <div className='flex justify-center'>
-                            <Image src="/images/graphic-design.png" width={40} height={40} alt=""/>
+                            <Image  src="/images/graphic-design.png" width={40} height={40} alt=""/>
                         </div>
                         <div className='block justify-center text-center'>
                             <h2 className='text-2xl text-blue-800 font-sans mt-5'>Web Design</h2>
